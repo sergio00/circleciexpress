@@ -1,5 +1,5 @@
 FROM node
-MAINTAINER john williams <jrw@mit.edu>
+MAINTAINER sergio moncayo <slsergioxavier@gmail.com>
 
 RUN mkdir -p /usr/src
 WORKDIR /usr/src
